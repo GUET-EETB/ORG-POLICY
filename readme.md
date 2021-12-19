@@ -1,17 +1,14 @@
-<font face = 等线>  
+# 前言
 
+本篇教程改编于三院科协的教程（由于科协不在进行维护，为保证教程的更新，因此Fork下来进行维护更新）
 
-[![head](https://s2.ax1x.com/2019/11/01/Kbn6l6.png)](https://github.com/GUET-CSSTA-GC/ORG-POLICY)
----  
+# 你想要干什么？
 
-[![](https://s2.ax1x.com/2019/10/29/KfmUSA.png)](https://github.com/GUET-CSSTA-GC/ORG-POLICY/blob/master/mdflies/FormatOfReports/FormatOfReports.md)
+- [去瞅瞅如何进行使用git](https://github.com/GUET-EETB/ORG-POLICY/blob/master/mdflies/StartWithGit/StartWithGit.md)
+- [去瞅瞅如何进行markdown](https://github.com/GUET-EETB/ORG-POLICY/blob/master/mdflies/StartWithMarkdown/StartWithMarkdown.md)
+- [开始你的任务（仍在完善ing）]()
+- [怎么办，我什么都不知道](https://github.com/GUET-CSSTA-GC/ORG-POLICY/blob/master/mdflies/IM_SO_VEGETABLE/IM_SO_VEGETABLE.MD)
 
-[![](https://s2.ax1x.com/2019/10/29/Kfmdyt.png)](https://github.com/GUET-CSSTA-GC/ORG-POLICY/blob/master/mdflies/KanBanPolicy/KanBanPolicy.md)
-
-[![](https://s2.ax1x.com/2019/10/29/KfmwOP.png)](https://github.com/GUET-CSSTA-GC/ORG-POLICY/blob/master/mdflies/DeveloperPrivicy/DeveloperPrivicy.md)
-
-[![](https://s2.ax1x.com/2019/10/29/KfmaQI.png)](https://github.com/GUET-CSSTA-GC/ORG-POLICY/blob/master/mdflies/IM_SO_VEGETABLE/IM_SO_VEGETABLE.MD)
-
-* 该页面可能存在缺漏，依然在完善。（然而我天天满课很快乐）
-
-</font> 
+---
+EETB
+2021-12
