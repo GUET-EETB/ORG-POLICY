@@ -37,7 +37,8 @@
 [使用GitHub](#26)  
 [自定义Git](#27)  
 [忽略特殊文件](#28)  
-[提问-答疑区（三院科协 文章原址）](#29)
+[提问-答疑区（三院科协 文章原址）](#29)  
+[提问-答疑区（哎嘿，咱自己的）](#30)  
 
 ---
 
@@ -1998,6 +1999,8 @@ deploy_key_rsa
 
 [![](https://s2.ax1x.com/2019/10/30/K4aRPJ.png)](https://github.com/GUET-CSSTA-GC/ORG-POLICY/issues/1)
 
+## <a id='30'>提问-答疑区（EETB）</a>	
+[![]()](https://github.com/GUET-EETB/ORG-POLICY/issues/1)
 ---
 
 </font>
