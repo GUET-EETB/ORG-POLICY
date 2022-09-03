@@ -7,7 +7,8 @@
 - [去瞅瞅如何进行使用git](https://github.com/GUET-EETB/ORG-POLICY/blob/master/mdflies/StartWithGit/StartWithGit.md)
 - [去瞅瞅如何进行markdown](https://github.com/GUET-EETB/ORG-POLICY/blob/master/mdflies/StartWithMarkdown/StartWithMarkdown.md)
 - [开始你的任务（仍在完善ing）]()
-- [怎么办，我什么都不知道](https://github.com/GUET-EETB/ORG-POLICY/blob/master/mdflies/IM_SO_VEGETABLE/IM_SO_VEGETABLE.MD)
+- [怎么办，我什么都不知道](https://github.com/GUET-EETB/ORG-POLICY/blob/master/mdflies/IM_SO_VEGETABLE/IM_SO_VEGETABLE.MD)  
+- [在开始你的提问之前，请阅读](https://github.com/GUET-EETB/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)
 
 ---
 EETB
