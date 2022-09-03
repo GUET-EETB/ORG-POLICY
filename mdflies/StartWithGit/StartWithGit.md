@@ -2000,7 +2000,7 @@ deploy_key_rsa
 [![](https://s2.ax1x.com/2019/10/30/K4aRPJ.png)](https://github.com/GUET-CSSTA-GC/ORG-POLICY/issues/1)
 
 ## <a id='30'>提问-答疑区（EETB）</a>	
-[![]()](https://github.com/GUET-EETB/ORG-POLICY/issues/1)
+[![](https://s2.ax1x.com/2019/10/30/K4aRPJ.png)](https://github.com/GUET-EETB/ORG-POLICY/issues/1)
 ---
 
 </font>
